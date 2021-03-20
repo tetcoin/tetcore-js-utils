@@ -4,7 +4,7 @@ This repo contains a set of utilities provided as react context.
 
 ### Usage example
 
-## With Polkadot-js api
+## With Tetcoin-js api
 
 in your App.jsx (or App.tsx)
 ```js
